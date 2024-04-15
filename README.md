@@ -1,4 +1,4 @@
-# corporateclock
+# corporate-clock
 
 It tells you where you are in the year/quarter.
 
